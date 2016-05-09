@@ -1,0 +1,38 @@
+#container {
+	width: 80%;
+	margin: 0 auto;
+
+}
+
+
+.control {
+	background-color: #dddddd;
+	padding: 10px;
+}
+.box	{
+	background-color: #3498db;
+	padding: 15px;
+	display: none;
+}
+
+#login-box {
+	width: 150px;
+	/*height: 200px;*/
+	background-color: #dddddd;
+	padding: 20px 10px 10px 10px;
+	display: none;
+	position: relative;
+	border: 2px solid aqua;
+}
+
+label {
+	display: block;
+}
+
+#close {
+	position: absolute;
+	right: 10px;
+	top: 0;
+	color: blue;
+}
+
